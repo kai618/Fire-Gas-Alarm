@@ -15,4 +15,4 @@ An Arduino project using 2 Arduino UNO and 1 ESP01 as a fire gas detector.
 - Connects to an access point via SSID.
 - Plays a role as a web server to respond resquests from wifi clients.
 
-In the video, I use AsyncTask for my android app.
+In the video, I used AsyncTask for my android app.
