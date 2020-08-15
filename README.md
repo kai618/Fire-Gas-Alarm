@@ -1,6 +1,6 @@
 # Fire Gas Alarm
 This Arduino project uses 2 Arduino UNO and 1 ESP01 to work as a fire gas detector.  
-It was a final project of the course THCNTT1.
+It was the final project of the course THCNTT1.
 
 ## Updates
 Version 2: [Smart Home Project](https://github.com/kai618/smart-home-project)  
