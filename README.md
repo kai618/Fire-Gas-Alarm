@@ -4,7 +4,7 @@ It was the final project of the course THCNTT1.
 
 ## Updates
 Version 2: [Smart Home Project](https://github.com/kai618/smart-home-project)  
-Version 3: OmniCare (Updating)
+Version 3: [OmniCare](https://github.com/kai618/omnicare)
 
 ## Demo
 [A short video on YouTube]( https://youtu.be/Pv0fgiOIsCE)  
@@ -22,5 +22,3 @@ In the video, I utilised AsyncTask in my Android app.
 - Receives data from Arduino 2.
 - Connects to an access point via SSID.
 - Plays a role as a web server to respond resquests from wifi clients.
-
-
