@@ -7,8 +7,8 @@ Version 2: [Smart Home Project](https://github.com/kai618/smart-home-project)
 Version 3: [OmniCare](https://github.com/kai618/omnicare)
 
 ## Demo
-[A short video on YouTube]( https://youtu.be/Pv0fgiOIsCE)  
-In the video, I utilised AsyncTask in my Android app.
+[A demo video on YouTube]( https://youtu.be/Pv0fgiOIsCE)  
+In the video, I utilised AsyncTask in my [Android app](https://github.com/kai618/iosgfa).
 
 ## Descriptions
 #### Arduino 1
